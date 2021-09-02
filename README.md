@@ -1,1 +1,1 @@
-# Basic-Project-2-Guessing-the-Number
+# Basic Python Project-2-Guessing-the-Number
